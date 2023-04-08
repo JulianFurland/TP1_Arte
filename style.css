@@ -1,0 +1,43 @@
+body{
+    background-color: rgb(143, 149, 155);
+    font-family: monospace;
+    font-size: x-large;
+}
+#epigraph{
+    font-size: medium;
+    margin-left: 10px;
+    font-weight: bold;
+}
+#imggallery{
+    float: left;
+    margin-left: 10px;
+    width: 500px;
+    height: 500px;
+}
+#imgindex{
+    float: left;
+    margin-left: 10px;
+    width: 500px;
+    height: 700px;
+}
+#hyperlinks{
+    float: left;
+    margin-left: 50px;
+}
+#infolist{
+    float: left;
+}
+#imglast{
+    margin-left: 10px;
+    width: 500px;
+    height: 500px;
+}
+#imgraw{
+    margin-left: 10px;
+}
+h1{
+    color: darkslateblue;
+}
+#hlist{
+    color: darkslategrey;
+}
